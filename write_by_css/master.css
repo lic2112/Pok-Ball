@@ -13,7 +13,7 @@ div {
     top: 0;
     bottom: 0;
     margin: auto;
-    background: black -webkit-linear-gradient(red 47%, black 47%, black 53%, white 53%, white 100%);
+    background:-webkit-linear-gradient(red 47%, black 47%, black 53%, white 53%, white 100%);
     border-radius: 50%;
     box-shadow: -10px -10px 30px 5px rgba(0, 0, 0, 0.5) inset;
     transition: all 40s linear;
